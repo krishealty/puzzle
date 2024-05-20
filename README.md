@@ -25,6 +25,7 @@ Thanks [krystal carpintieri](https://www.krystalcarpintieri.com/home/puzzle-anim
 You can upload your image, set parameters and generate an html file with the game and your image. You can use the resulting file on your website or directly on your device, or you can modify it yourself, change the parameters, or write your own script that will run after the game is finished.
 
 Try online editor: [Puzzle](https://krishealty.github.io/puzzle/)
+
 Try demo: [Demo](https://krishealty.github.io/puzzle/example.html)
 Editor features
 - Automatic style adaptation based on image dimensions
