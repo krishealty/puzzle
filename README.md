@@ -27,6 +27,7 @@ You can upload your image, set parameters and generate an html file with the gam
 Try online editor: [Puzzle](https://krishealty.github.io/puzzle/)
 
 Try demo: [Demo](https://krishealty.github.io/puzzle/example.html)
+
 Editor features
 - Automatic style adaptation based on image dimensions
 - Proportional division of an image into blocks
